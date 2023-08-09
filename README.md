@@ -1,12 +1,16 @@
-# Buenas practicas de Programación Modular
+# Buenas practicas de programación con Python.
 
 ![](https://cosasdedevs.com/media/posts/photos/python-39-nuevas-caracteristicas.jpg)
 
 ---
 
-### *<div>Objetvos</div>*  
-Implementar las buenas prácticas de programación y la programación modular para mejorar la calidad de los programas utilizando Python.
-Ejercicio: Desarrolle un solo programa (sin funciones/no modular) en Python para la gestión de una mini tienda de venta de productos.
+### *<div>Objetvo:</div>*  
+- Realizar buenas prácticas de programación modular y no modular, para mejorar la calidad de los programas utilizando Python.
+
+### *<div>Ejercicios:</div>*  
+- No Modular: Desarrolle un solo programa no Modular (sin funciones/sin modulos) en Python para la gestión de una mini tienda de venta de productos.</p>
+- Modular: Desarrolle un solo programa Modular en Python para la gestión de una mini tienda de venta de productos.
+
 
 ### *<div>Implementación/Código:</div>* 
 1. Registrar un producto con nombre y precio.
@@ -25,12 +29,12 @@ Ejercicio: Desarrolle un solo programa (sin funciones/no modular) en Python para
 
 ---
 ### *<div>Estudiante:</div>* 
-Francisco De Jesús Meléndez Simplina
+- Francisco De Jesús Meléndez Simplina
 
 ### *<div>Fecha de creación:</div>* 
-26/10/2022
+- 26/10/2022
 ### *<div>Clase:</div>* 
-Algoritmos y Estructuras de Datos
+- Algoritmos y Estructuras de Datos
 
 ### *<div>Docente :</div>*  
-César Marín López
+- César Marín López
